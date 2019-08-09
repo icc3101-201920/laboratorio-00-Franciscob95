@@ -43,13 +43,13 @@ namespace Card
         {
 
         }
-        public void GetRangeAttackPoints()
+        public int [] GetRangeAttackPoints()
         {
-
+            return int[];
         }
-        public void GetLongRangeAttackPoints()
+        public int[] GetLongRangeAttackPoints()
         {
-
+            return int[];
         }
     }
 }
