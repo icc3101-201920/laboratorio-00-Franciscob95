@@ -17,23 +17,23 @@ namespace Card
             this.specialCard = specialCard;
         }
 
-        static void AddCombatCard(CombatCard combatCard)
+        public void AddCombatCard(CombatCard combatCard)
         {
 
         }
-        static void AddSpecialCard (SpecialCard specialCard)
+        public void AddSpecialCard (SpecialCard specialCard)
         {
 
         }
-        static void DestroyCombatCard (CombatCard combatCard)
+        public void DestroyCombatCard (CombatCard combatCard)
         {
 
         }
-        static void DestroySpecialCard (SpecialCard specialCard|)
+        public void DestroySpecialCard (SpecialCard specialCard)
         {
 
         }
-        static void Shuffle()
+        public void Shuffle()
         {
 
         }

@@ -8,5 +8,6 @@ namespace Card
 {
     class Board
     {
+
     }
 }

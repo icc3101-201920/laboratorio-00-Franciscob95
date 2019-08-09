@@ -16,19 +16,19 @@ namespace Card
             this.CombatCard = CombatCard;
             this.SpecialCard = SpecialCard;
         }
-         static void AddCombatCardHand (CombatCard CombatCard)
+        public void AddCombatCardHand (CombatCard CombatCard)
         {
 
         }
-        static void AddSpecialCardHand (SpecialCard SpecialCard)
+        public void AddSpecialCardHand (SpecialCard SpecialCard)
         {
 
         }
-        static void DestroySpecialCardHand (SpecialCard SpecialCard)
+        public void DestroySpecialCardHand (SpecialCard SpecialCard)
         {
 
         }
-        static void DestroyCombatCardHand(CombatCard CombatCard)
+        public void DestroyCombatCardHand(CombatCard CombatCard)
         {
 
         }
