@@ -23,6 +23,33 @@ namespace Card
             this.specialMeleeCards = specialMeleeCards;
             this.specialRangeCards = specialRangeCards;
         }
+        public void AddComnatCard()
+        {
 
+        }
+        public void AddSpecialCard()
+        {
+
+        }
+        public void DestroyCombatCards()
+        {
+
+        }
+        public void DestroySpecialCards()
+        {
+
+        }
+        public void GetMeleeAttackPoints()
+        {
+
+        }
+        public void GetRangeAttackPoints()
+        {
+
+        }
+        public void GetLongRangeAttackPoints()
+        {
+
+        }
     }
 }
